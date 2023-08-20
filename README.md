@@ -1,5 +1,5 @@
-#Etsy JavaScript Scraper Bookmarklet
-##Automate Order Details Extraction from Etsy with Ease!
+# Etsy JavaScript Scraper Bookmarklet
+## Automate Order Details Extraction from Etsy with Ease!
 
 Are you tired of manually retrieving order details from Etsy's order details page? Look no further! Introducing the Etsy JavaScript Scraper Bookmarklet – your ultimate solution to effortlessly scrape and copy order information.
 
